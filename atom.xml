@@ -5,9 +5,9 @@
   <subtitle>一处关于读书和生活的憩息地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://geshili.github.io/"/>
   <updated>2018-01-11T17:20:11.177Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://geshili.github.io/</id>
   
   <author>
     <name>戴先波</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试版权信息</title>
-    <link href="http://yoursite.com/2018/01/12/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF/"/>
-    <id>http://yoursite.com/2018/01/12/测试版权信息/</id>
+    <link href="https://geshili.github.io/2018/01/12/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF/"/>
+    <id>https://geshili.github.io/2018/01/12/测试版权信息/</id>
     <published>2018-01-11T17:16:29.000Z</published>
     <updated>2018-01-11T17:20:11.177Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>my fist test</title>
-    <link href="http://yoursite.com/2018/01/10/my-fist-test/"/>
-    <id>http://yoursite.com/2018/01/10/my-fist-test/</id>
+    <link href="https://geshili.github.io/2018/01/10/my-fist-test/"/>
+    <id>https://geshili.github.io/2018/01/10/my-fist-test/</id>
     <published>2018-01-10T14:38:18.000Z</published>
     <updated>2018-01-10T14:39:46.969Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>hello-Hexo</title>
-    <link href="http://yoursite.com/2018/01/08/hello-Hexo/"/>
-    <id>http://yoursite.com/2018/01/08/hello-Hexo/</id>
+    <link href="https://geshili.github.io/2018/01/08/hello-Hexo/"/>
+    <id>https://geshili.github.io/2018/01/08/hello-Hexo/</id>
     <published>2018-01-07T16:04:18.000Z</published>
     <updated>2018-01-07T17:08:21.086Z</updated>
     
@@ -71,21 +71,21 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="搭建博客" scheme="https://geshili.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://geshili.github.io/tags/hexo/"/>
     
-      <category term="gitgub" scheme="http://yoursite.com/tags/gitgub/"/>
+      <category term="gitgub" scheme="https://geshili.github.io/tags/gitgub/"/>
     
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+      <category term="npm" scheme="https://geshili.github.io/tags/npm/"/>
     
   </entry>
   
   <entry>
     <title>你好，Hexo</title>
-    <link href="http://yoursite.com/2018/01/07/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/"/>
-    <id>http://yoursite.com/2018/01/07/你好，Hexo/</id>
+    <link href="https://geshili.github.io/2018/01/07/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/"/>
+    <id>https://geshili.github.io/2018/01/07/你好，Hexo/</id>
     <published>2018-01-07T15:25:16.000Z</published>
     <updated>2018-01-07T15:25:16.543Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/07/hello-world/"/>
-    <id>http://yoursite.com/2018/01/07/hello-world/</id>
+    <link href="https://geshili.github.io/2018/01/07/hello-world/"/>
+    <id>https://geshili.github.io/2018/01/07/hello-world/</id>
     <published>2018-01-07T14:51:12.232Z</published>
     <updated>2018-01-10T05:50:42.540Z</updated>
     
